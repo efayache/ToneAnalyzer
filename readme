@@ -1,0 +1,10 @@
+This script will allow you to interract with Watson Tone analyzer just type 
+your sentence and Watson will automatically decrypt your tone.
+Type 'quit' to exit the script.
+
+
+You can also configure the script to write the dialog with Watson on a text file for that you need to:
+- set the variable write2file to True
+- Set the file_path variable to your file path
+
+  
