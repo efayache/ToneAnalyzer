@@ -17,7 +17,7 @@ input()
 #Variable start
 analyze_full_sentence=True #set it to true if you want to analyze the full sentence of false if overall content analyzis is required
 
-write2file=True #Set to True if you want to also write result to file
+write2file=False #Set to True if you want to also write result to file
 file_path='/Users/elyes.fayache/Desktop/Watson/result_fr.txt' #Please check that file path is correct
 
 username="a1c5416e-735d-4eb8-a0f8-b36607e594f4"
